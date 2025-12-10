@@ -1,0 +1,14 @@
+RESULTS SUMMARY
+============================================================
+Name                 |    Avg | Grade | Comment
+------------------------------------------------------------
+Karthik              |   88.3 |   B   | Very Good! You're doing well.
+Pavan                |   81.3 |   B   | Very Good! You're doing well.
+Bharath              |   91.7 |   A   | Excellent! Keep up the great work!
+
+CLASS STATISTICS
+============================================================
+Total Students: 3
+Class Average: 87.1
+Highest Average: 91.7 (Bharath)
+Lowest Average: 81.3 (Pavan)
